@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Clock app that changes color in every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazseyit77/npm-lab-online-web-ft-081219.git"
+  },
+  "keywords": [
+    "Color-clock"
+  ],
+  "author": "Yaz",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/yazseyit77/npm-lab-online-web-ft-081219/issues"
+  },
+  "homepage": "https://github.com/yazseyit77/npm-lab-online-web-ft-081219#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
