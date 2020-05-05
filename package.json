@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armel50/npm-lab-online-web-ft-081219.git"
+  },
+  "author": "Cloe kouadjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armel50/npm-lab-online-web-ft-081219/issues"
+  },
+  "homepage": "https://github.com/armel50/npm-lab-online-web-ft-081219#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
